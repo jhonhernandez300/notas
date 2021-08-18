@@ -26,9 +26,22 @@
 ////////////////////////////////////////////////////\par
 ////////////////////////////////////////////////////\par
 ////////////////////////////////////////////////////\par
+\par
+\par
+\par
+\par
 ////////////////////////////////////////////////////\par
 \par
+Tuples are fixed-length arrays, where each item in the array is of a specified type\par
+let tuple: [string, string, string];\par
 \par
+Indexable types associate a key with a value\par
+let cities: \{ [index: string]: [string, string] \} = \{\};\par
+cities["London"] = ["raining", TempConverter.convertFtoC("38")];\par
+\par
+for (let key in cities) \{\par
+    console.log(`$\{key\}: $\{cities[key][0]\}, $\{cities[key][1]\}`);\par
+\}\par
 \par
 ////////////////////////////////////////////////////\par
 \par
@@ -103,13 +116,13 @@ if (index > -1) \{\par
 \}\par
 // array = [2, 9]\par
 \par
-//////////////////////////////////////////////////////\par
+//////////////////////////////////////////////////////             /\par
 \par
 const fetchEmployees = async (): Promise<Array<Employee> | string> => \{\par
-    const api = '{{\field{\*\fldinst{HYPERLINK http://dummy.restapiexample.com/api/v1/employees }}{\fldrslt{http://dummy.restapiexample.com/api/v1/employees\ul0\cf0}}}}\f0\fs22 '\par
+    const \b api \b0 = '{{\field{\*\fldinst{HYPERLINK http://dummy.restapiexample.com/api/v1/employees }}{\fldrslt{http://dummy.restapiexample.com/api/v1/employees\ul0\cf0}}}}\f0\fs22 '\par
     try \{\par
-        const response = await fetch(api)\par
-        const \{ data \} = await response.json()\par
+        const \ul response \ulnone = await fetch(\b api\b0 )\par
+        const \{ data \} = await \ul response\ulnone .json()\par
         return data\par
     \} catch (error) \{\par
         if (error) \{\par
@@ -121,13 +134,17 @@ const fetchEmployees = async (): Promise<Array<Employee> | string> => \{\par
 const api =  '{{\field{\*\fldinst{HYPERLINK http://dummy.restapiexample.com/api/v1/employees }}{\fldrslt{http://dummy.restapiexample.com/api/v1/employees\ul0\cf0}}}}\f0\fs22 '\par
    fetch(api)\par
     .then(response => response.json())\par
-    .then(employees => employees.forEach(employee => console.log(employee.id)) // logs all employee id\par
+    .then(employees => employees\par
+            .forEach(employee => console.log(employee.id)) // logs all employee id\par
     .catch(error => console.log(error.message))) // logs any error from the promise\par
 \par
 En postman:\par
 localhost:3000/api/frequencies/allFrequencies\par
+\par
 En index:\par
 router.get('/allFrequencies', getAllFrequencies);\par
+\par
+///////////////////////////////////////////\par
 \par
 instalar cors\par
 npm i --save-dev @types/cors\par
