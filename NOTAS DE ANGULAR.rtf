@@ -12,9 +12,29 @@
 //////////////////////////////////////////\par
 //////////////////////////////////////////\par
 //////////////////////////////////////////\par
+\par
+\par
+\par
 //////////////////////////////////////////\par
 \par
+dataSource.getProducts().subscribe(data => \{\par
+            this.products = data;\par
+            this.categories = data.map(p => p.category)\par
+                .filter((c, index, array) => array.indexOf(c) == index).sort();\par
+\});\par
 \par
+getProducts(category: string = null): Product[] \{\par
+        return this.products\par
+            .filter(p => category == null || category == p.category);\par
+\}\par
+\par
+getProduct(id: number): Product \{\par
+        return this.products.find(p => p.id == id);\par
+\}\par
+\par
+getCategories(): string[] \{\par
+         return this.categories;\par
+\}     \par
 \par
 //////////////////////////////////////////\par
 \par
