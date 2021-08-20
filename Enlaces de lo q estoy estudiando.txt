@@ -1,0 +1,934 @@
+Remington	1+++  2+++  3++
+https://www.youtube.com/watch?v=j0DyqvgE1J8&list=PL9SnRnlzoyX32lX7zNawatnGQP7IPLIi5&index=3&ab_channel=MateFacil
+https://www.youtube.com/results?search_query=algebra+lineal&sp=EgIQAw%253D%253D
+
+Aplicación empresa > css	++
+https://codepen.io/abdullahturel/pen/ypYmQj
+
+inglés		1+  2   3
+hay un pdf: ingles a2 
+pag 27
+https://cambridgemb.com/examenes-certificaciones-test-oficiales-exams/ket-key-english-test-a2/ejemplos-modelos-practicar-preparacion-pdf/
+https://cambridgemb.com/recursos-ejemplos-modelos-examenes/
+https://www.google.com/search?q=pet+cambridge+ejercicios+resueltos&oq=pet+cambridge+ejercicios+resueltos&aqs=chrome..69i57j33i160.15959j0j7&sourceid=chrome&ie=UTF-8
+
+Vídeos > Angular (Testing)	1  2  3
+min 20 ->N
+video 6 2
+
+NUnit 
+
+Eres hermosa...cuál es tu whats up? el mío es (+57) 3192161840 me gustaría conocerte
+
+Aplicación empresa > backend
+
+css libro	+
+https://learning.oreilly.com/videos/css-bootcamp-master/9781800202801/9781800202801-video2_13/
+
+inglés > B1
+https://www.google.com/search?q=ingl%C3%A9s+b1+solutions+pdf&sxsrf=ALeKk00p2Y-PmwOVBT1v5qcVvaBN6b3sgA%3A1629349701421&ei=RecdYfSXGbCKwbkPy8Gp4AQ&oq=ingl%C3%A9s+b1+solutions+pdf&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABQs8ECWOnNAmCe0QJoAXACeACAAY0BiAGOBJIBAzAuNJgBAKABAcgBCMABAQ&sclient=gws-wiz&ved=0ahUKEwi0zqvRqLzyAhUwRTABHctgCkwQ4dUDCA4&uact=5
+
+Aplicación empresa > front
+
+Jasmine > configureTestingModule    +
+createComponent()
+https://angular.io/guide/testing-components-basics
+https://www.google.com/search?q=jasmine+configureTestingModule&oq=jasmine+configureTestingModule&aqs=chrome..69i57j0i19i22i30.2294j0j4&sourceid=chrome&ie=UTF-8
+
+Jasmine github 
+%10
+Matchers
+https://jasmine.github.io/tutorials/your_first_suite#section-Spies
+
+less libro2	
+%0
+i
+https://learning.oreilly.com/library/view/beginning-css-preprocessors/9781484213476/9781484213483_Ch02.xhtml#Sec1
+
+less libro1	
+https://learning.oreilly.com/videos/writing-css-with/9781771371704/9781771371704-video156657/
+
+css > formulario
+
+angular io > Developer Guides > Http client 
+i
+https://angular.io/guide/http#testing-http-requests
+
+Angular libro		
+%60
+Creating the Feature Module
+https://learning.oreilly.com/library/view/pro-angular-9/9781484259986/A421542_4_En_7_Chapter.html
+
+Jasmine > Testear un componente		
+Testeando llamadas asíncronas
+https://codingpotions.com/angular-testing
+https://www.google.com/search?q=jasmine+testing+de+un+componente&sxsrf=ALeKk033DBNCnTZ8mJHtiZHWRHUfyH31tw%3A1628740895236&ei=H50UYer0DcmUwbkPhP-puAo&oq=jasmine+testing+de+un+componente&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BAgAEBM6CAgAEA0QHhATSgQIQRgAUI1dWMtpYNhvaAJwAngAgAGcAYgBkA2SAQQwLjEymAEAoAEByAEIwAEB&sclient=gws-wiz&ved=0ahUKEwiqgPfTzKryAhVJSjABHYR_CqcQ4dUDCA4&uact=5
+
+css > jugar con los estilos
+https://codepen.io/abdullahturel/pen/ypYmQj
+
+PluralSight > Practical
+https://app.pluralsight.com/course-player?clipId=9a0b8536-fbee-4334-befe-4a069b8dfc52
+
+Testing angular libro	
+%80	
+Testing for failures with asynchronous services
+https://learning.oreilly.com/library/view/testing-angular-applications/9781617293641/c06.xhtml#h1-293641c06-0002
+
+Angular io > Developer Guides > Testing		
+Component DOM testing
+https://angular.io/guide/testing-components-basics
+
+jasmine > not working
+
+PluralSight > Fundamentals
+https://app.pluralsight.com/course-player?clipId=2d583cb0-eddc-4959-8938-a38504e16dd0
+
+Angular codigo de ejemplo 
+
+PluralSight > Advanced
+https://app.pluralsight.com/library/courses/reactjs-advanced/table-of-contents
+
+PluralSight > And Redux
+https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents
+
+Inglés > agregar un enlace nuevo
+
+PluralSight > Hooks
+https://app.pluralsight.com/library/courses/using-react-hooks/table-of-contents
+
+stackoverflow > .net core
+https://stackoverflow.com/search?tab=votes&q=.net%20core
+
+Udemy > buscar cursos
+
+Diseñar casos de prueba
+https://www.youtube.com/watch?v=rQf50sYvgJE&ab_channel=TestingParaTodos
+https://www.youtube.com/watch?v=guMvZTwn1xA&ab_channel=ATesterMate
+
+npm
+https://app.pluralsight.com/library/courses/npm-getting-started/table-of-contents
+
+Angular > ngShow
+
+.net core > Include
+
+PluralSight > Designing components
+https://app.pluralsight.com/library/courses/react-components-designing/table-of-contents
+
+.net core > FirstOrDefault
+
+PluralSight > Building a web site
+https://app.pluralsight.com/library/courses/aspdotnet-core-react-building-website/table-of-contents
+
+
+React > onChange
+
+.net core > return
+
+Angular > Carpeta codigo de ejemplo
+
+React > onBlur
+
+Vídeos > VS Code > VS Code 3 
+min
+0
+
+Jasmin > Testear un formulario
+
+Preguntas entrevista de trabajo > .net core 	
+
+Stackoverflow > Angular > does not exist
+
+Boostrap > sitio web desde cero
+https://www.youtube.com/watch?v=X8OysJsdYxA&ab_channel=Fazt
+
+node js >>
+
+Preguntas entrevista de trabajo > asp.net  	
+
+Angular > Testing
+https://www.youtube.com/watch?v=7WSMvufDh7s&ab_channel=ARCTutorials
+css > Menú desplegable
+https://www.youtube.com/watch?v=ELPK72kqpjM&ab_channel=InformaticaStudios
+
+Preguntas entrevista de trabajo > POO 	
+
+Tour of heroes 	
+https://angular.io/tutorial/toh-pt5
+
+Jasmin > Testear un servicio
+
+Preguntas entrevista de trabajo > C# 	
+
+************************************************************************
+typescript > Enums
+Desde
+i
+Hasta
+
+https://howtodoinjava.com/typescript/enums/
+**********************************************************************
+.net core > SaveChanges
+.net core > Add
+
+Jugar con los estilos
+https://stackblitz.com/angular/lvkgllabvbn?file=src%2Fapp%2Fhero-list-page.component.css
+
+css > tabla
+
+css viewport
+https://webdesign.tutsplus.com/es/tutorials/svg-viewport-and-viewbox-for-beginners--cms-30844
+
+Jasmine > jasmine.create
+
+css > flexbox
+https://www.positronx.io/vertically-center-html-elements-using-bootstrap-4/
+
+jazmin  	
+60%
+Why mock?
+https://www.digitalocean.com/community/tutorials/testing-angular-with-jasmine-and-karma-part-1
+
+C# > put
+
+typescript
+https://khru.gitbooks.io/typescript/content/enum.html
+
+Javascript > averigurar cosas de string		
+Ejemplos de aprendizaje activo
+https://www.google.com/search?q=javascript+string&oq=javascript+string&aqs=chrome..69i57j0i512l9.3079j0j4&sourceid=chrome&ie=UTF-8
+
+Angular > http
+
+Angular > smart dumb forms	
+Basic Component
+https://medium.com/angular-athens/reactive-forms-with-smart-dumb-components-48ebc81417c7
+https://www.google.com/search?q=angular+smart+forms&oq=angular+smart+f&aqs=chrome.1.69i57j0i22i30l7j69i64.7783j0j7&sourceid=chrome&ie=UTF-8
+
+Angular > Interface
+
+Dotnet test
+https://docs.microsoft.com/es-es/dotnet/core/tools/dotnet-test?tabs=netcore21?wt.mc_id=academic-0000-chnoring
+
+css > crear un menú/side bar desde cero
+
+xUnit
+https://docs.microsoft.com/es-es/dotnet/core/testing/unit-testing-with-dotnet-test?wt.mc_id=academic-0000-chnoring
+
+C# > patch
+
+.net core > JWT		
+%30
+Running an Angular 9
+https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api
+https://jasonwatmore.com/post/2020/05/25/aspnet-core-3-api-jwt-authentication-with-refresh-tokens
+video  > 
+https://www.google.com/search?q=.net+core+jwt&sxsrf=ALeKk03Tuj0aukQapi8CWfkPrbwuktlrGQ:1628111577132&source=lnms&tbm=vid&sa=X&sqi=2&ved=2ahUKEwji4dOhpJjyAhVBqpUCHa2BBA8Q_AUoAXoECAEQAw&biw=1920&bih=937
+pag web + > 
+https://www.google.com/search?q=.net+core+jwt&oq=.net+core+jwt&aqs=chrome..69i57j0i512l3j0i22i30l6.3246j0j4&sourceid=chrome&ie=UTF-8
+
+Emmet (notas de css)	
+
+FrontEnd Masters > grabar más vídeos
+
+Vídeos > Angular	
+Angular getting 11 
+
+Jugar con los estilos		
+https://www.youtube.com/watch?v=dhLcyBCJ0r4&ab_channel=OnlineTutorials
+nomb arch ListaCssHolverEffects
+
+Angular > rxjs		
+Purity
+https://rxjs.dev/guide/overview
+https://www.google.com/search?q=rxjs&oq=rxjs&aqs=chrome..69i57j0l9.454j0j4&sourceid=chrome&ie=UTF-8
+
+Jasmin > TestBed
+
+Angular > ngSubmit
+
+.net core > procedimientos almacenados		
+https://www.entityframeworktutorial.net/efcore/working-with-stored-procedure-in-ef-core.aspx
+https://www.google.com/search?q=.net+core+stored+procedure+code+firts&oq=.net+core+stored+procedure+code+firts&aqs=chrome..69i57j0i8i13i30.11247j0j7&sourceid=chrome&ie=UTF-8
+
+Angular > ver codigo online	
+https://stackblitz.com/angular/lvkgllabvbn?file=src%2Fapp%2Fapp.component.ts
+
+Angular > carpeta codigo de ejemplo  > 2
+
+C# > Linq
+
+dll		
+DLL advantages
+DLL troubleshooting tools
+
+RxJS in Angular		
+https://app.pluralsight.com/course-player?clipId=880f8395-f00c-4a62-bca2-8d0a36e0ceb7
+
+css > sitio web desde cero
+
+Angular > radio button		
+https://stackoverflow.com/search?q=angular+radio+button
+
+Angular > invalid
+
+leer partitura		
+https://www.youtube.com/watch?v=r5JDxJTUneM&ab_channel=EscueladeRockQuito
+https://www.youtube.com/results?search_query=leer+partituras+guitarra
+
+Angular > dirty
+
+css > svg
+https://www.w3schools.com/html/html5_svg.asp
+
+angular > guards	
+https://www.google.com/search?q=angular+guards+&sxsrf=ALeKk00ijvXrqNa2NKZXMvIaXaErgBOhMg%3A1628182945681&ei=oRkMYfmUKemGwbkPwciNiAc&oq=angular+guards+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEMsBMgUIABDLATIFCAAQgAQyBQgAEMsBMgcIABAKEMsBMgUIABDLATIFCAAQywEyBwgAEAoQywEyBQgAEMsBOgcIABBHELADSgQIQRgAUPQWWPQWYNQZaAJwAngAgAGZAYgBlAKSAQMwLjKYAQCgAQHIAQjAAQE&sclient=gws-wiz&ved=0ahUKEwi56eyQrpryAhVpQzABHUFkA3EQ4dUDCA4&uact=5
+
+Angular > touched
+
+less > videos youtube
+https://www.youtube.com/results?search_query=less+tutorial
+
+Angular > *ngIf
+
+.net core > HttpPost
+
+css > position		
+https://stackoverflow.com/search?q=css+position
+
+Angular > Date
+
+ORM
+
+Put, push, post		
+post 2
+https://stackoverflow.com/questions/630453/what-is-the-difference-between-post-and-put-in-http
+https://www.google.com/search?q=put+vs+push&sxsrf=ALeKk02dSruMyxjTEec8T7ppcEbNAM7z-w%3A1627403267975&ei=AzQAYZKOO_arwbkPxambsA4&oq=put+vs+push&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQywEyBQgAEMsBMggIABAWEAoQHjIGCAAQFhAeMgYIABAWEB46BQgAELEDOgIIADoICAAQsQMQgwE6CwguELEDEMcBEK8BOgQIIxAnOgQIABBDOgQILhBDOgUILhCxAzoHCAAQsQMQQzoCCC46BQguEJMCSgQIQRgAULfllwFYnP2XAWC0iJgBaABwAngAgAGOAogBzg6SAQYwLjExLjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=gws-wiz
+
+Angular > FormBuilder
+
+Angular > FormControl
+
+Javascript > averigurar cosas de array		
+Relación entre length y las propiedades numéricas
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+Angular > Validators
+
+typescript
+https://learning.oreilly.com/library/view/programming-typescript/9781492037644/ch02.html
+
+Razor > DropDownListFor
+.net core > EnableCors
+
+C# > Task
+
+bootstrap > crear un menú/side bar desde cero
+
+C# > ActionResult
+
+typescript > observers example   +++
+https://stackoverflow.com/search?page=2&tab=Newest&q=typescript%20observer
+
+typescript > undefined
+typescript > observable    +++
+https://stackoverflow.com/search?tab=newest&q=typescript%20observable
+
+.net core > ver código
+Angular > subscribe
+
+Angular > routerLink
+
+***************************************************************
+
+https://mongoosejs.com/docs/populate.html
+***************************************************************
+
+Mongo > relaciones
+
+************************************************************************************************
+i
+
+https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
+**********************************************************************************************
+
+C# > Garbage collection
+https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals
+
+asp.net > BundleCollection.Add -> .Include 
+typescript > .pipe 	
+https://stackoverflow.com/search?tab=newest&q=typescript%20.pipe
+
+asp.net > ScriptBundle 
+Bootstrap > ver e implementar varias tables
+
+css > crear una tabla desde cero
+
+Angular > Pipes
+typescript > forEach	+++
+https://www.youtube.com/watch?v=KN02XKWdc-k&ab_channel=CodeToDo
+https://stackoverflow.com/search?tab=newest&q=typescript%20forEach
+
+punto net core codigo de ejemplo x3		
+
+Tricky questions C#		+++
+https://codingsight.com/tricky-questions-about-c-sharp/
+
+Código limpio
+
+Bootstrap > Repasar
+
+asp.net > ver código ->1	
+
+?s entrevistas de trabajo > POO 	+++
+
+less
+
+C# > IActionResult
+
+El programa automatizador de Angular
+
+C# > assembly 
+
+C# > namespaces
+
+hard typed language
+
+asp.net > api life cycle 
+
+?s entrevistas de trabajo > C#  +++
+
+typescript -> javascript	+
+?s entrevistas de trabajo > asp.net
+
+typescript > typeof	+++
+https://stackoverflow.com/search?tab=relevance&q=typescript%20typeof
+
+VS C > Atajos de teclado	+++
+
+angular io 	
+Use directives to watch the DOM
+https://angular.io/guide/lifecycle-hooks#initializing-a-component-or-directive
+
+codingame typescript
+
+Angular > routing  	
+Setting up wildcard routes
+https://angular.io/guide/router
+https://www.google.com/search?q=angular+routing&oq=angular+routing&aqs=chrome..69i57j0l5j69i65l2.671j0j4&sourceid=chrome&ie=UTF-8
+
+Sql
+
+Vídeos > Core 	
+Designing restful api 3
+
+tocar guitarra
+https://www.youtube.com/watch?v=cjbh3vh27GQ&ab_channel=RolandoMora
+
+bugs
+https://www.youtube.com/watch?v=fyYIntT1H_Q&ab_channel=ContinuousDelivery
+
+Angular > codigo online de ejemplo
+https://stackblitz.com/angular/lvkgllabvbn?file=src%2Fapp%2Fapp.component.ts
+
+bootstrap  > crear una tabla desde cero
+
+Extensiones de VS C
+https://carloszr.com/extensiones-de-visual-studio-code-para-angular/
+https://www.google.com/search?q=extensiones+de+visual+studio+code+para+angular&oq=extensiones+de+visual+studio+code+para+angular&aqs=chrome..69i57j0i22i30.11104j0j7&sourceid=chrome&ie=UTF-8
+
+Angular codigo de ejemplo 1	
+
+leer notas de css
+
+Traer los favoritos del navegador
+Leer las notas	+++
+
+typescript > unknown	+++
+https://stackoverflow.com/search?tab=relevance&q=typescript%20unknown
+
+typescript > array 	+++
+https://stackoverflow.com/search?tab=relevance&q=typescript%20array
+https://stackoverflow.com/questions/5767325/how-can-i-remove-a-specific-item-from-an-array/5767357#5767357
+
+CRUD > node js + Angular
+
+typescript > tap
+
+Javascript > prototype
+https://www.google.com/search?q=javascript+PROTOTYPE&sxsrf=ALeKk00ptGrgFac31hJbHo1gYHUWclvpug%3A1626552199828&ei=hzfzYKGGMomz5NoP2oySGA&oq=javascript+PROTOTYPE&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAEIcCEBQyAggAMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywE6BwgAEEcQsAM6BwgAELADEEM6BAgAEENKBAhBGABQkdUSWIHkEmDi6hJoAXACeACAAaMCiAHEC5IBBTAuOS4xmAEAoAEBqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz&ved=0ahUKEwjh5dCQ8-rxAhWJGVkFHVqGBAMQ4dUDCA4&uact=5
+
+?s entrevistas de trabajo > .net core
+
+PluralSight > Building a Web App	
+https://app.pluralsight.com/course-player?clipId=2b337496-07c2-4a3b-ab69-11353749a57c
+
+typescript > type
+https://stackoverflow.com/search?tab=newest&q=typescript%20type
+
+Working with Generic Type Variables
+https://www.typescriptlang.org/docs/handbook/2/generics.html
+
+typescript > any	
+https://stackoverflow.com/search?tab=newest&q=typescript%20any
+
+Hackerrank > Algoritmos en C#
+
+bootstrap > card	
+::selection
+Carpeta css mis proyectos > archivo CardResponsive
+
+Patrones de diseño > Libro	
+Here’s what YOU can do to bend your brain into submission
+%70
+https://learning.oreilly.com/library/view/head-first-design/9781492077992/preface03.html#we_know_what_youapostrophere_thinkingdo
+
+Hackerrank > Algoritmos de estructuras de datos en C#		
+min 10 - 20
+https://www.youtube.com/watch?v=Y8o8iophQx4&ab_channel=TutorialesdeProgramaci%C3%B3nExplicada
+https://www.youtube.com/results?search_query=lista+doblemente+enlazada+c%23
+
+https://khru.gitbooks.io/typescript/content/tuple__tuplas.html
+
+typescript > promises
+Simplify Async Callback Functions using Async/Await  
+Promises in TypeScript
+https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308
+https://www.google.com/search?q=typescript+promise&oq=typescript+pr&aqs=chrome.0.69i59j69i57j0l3j69i60l3.6071j0j4&sourceid=chrome&ie=UTF-8
+
+Hackerrank con typescript 
+
+css > position sticky
+https://www.youtube.com/watch?v=NzjU1GmKosQ&ab_channel=WebDevSimplified
+
+https://www.typescriptlang.org/docs/handbook/2/basic-types.html
+
+https://www.google.com/search?q=typescript+slice&oq=typescript+slice&aqs=chrome..69i57j0l3j0i22i30l6.5726j0j4&sourceid=chrome&ie=UTF-8
+
+https://www.google.com/search?q=TYPESCRIPT+filter&sxsrf=ALeKk000gLbT9EtzcdUb9I_4x1YBNK2f3g%3A1624368804049&ei=pObRYJOqAtGVwbkPhtKc4A0&oq=TYPESCRIPT+filter&gs_lcp=Cgdnd3Mtd2l6EAMyAggAMgIIADICCAAyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBOgUIABCwAzoHCAAQsAMQHjoECCMQJzoECAAQQ1Dl25gCWI7tmAJghPKYAmgBcAB4AIABlwGIAbcJkgEDMC45mAEAoAEBqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz&ved=0ahUKEwiTjLKsravxAhXRSjABHQYpB9wQ4dUDCA4&uact=5
+
+Typescript > namespaces
+https://www.tutorialspoint.com/typescript/typescript_namespaces.htm
+
+Codility > typescript
+https://app.codility.com
+
+asp.net > ViewResult
+
+?s entrevista de trabajo > html 
+
+?s entrevista de trabajo > css
+
+css > crear un formulario desde cero
+
+typescript > filter
+https://stackoverflow.com/search?q=typescript+filter
+
+?s entrevista de trabajo > Js
+
+node js > codigo de ejemplo	+
+https://github.com/search?l=TypeScript&q=api+example+node&type=Repositories
+
+asp.net > SqlParameter
+
+asp.net > FirstOrDefault
+
+0% 			
+https://learning.oreilly.com/library/view/pro-asp-net-mvc/9781430265290/9781430265290_Ch02.xhtml#Sec2
+
+typescript > index signature
+https://stackoverflow.com/questions/58458308/what-does-a-typescript-index-signature-actually-mean#:~:text=Index%20signatures%20mean%20a%20few,key%3A%20string%5D%3A%20number%3B%20%7D
+
+Stored Procedure >
+https://www.google.com/search?q=stored+procedure+asp.net+mvc&sxsrf=ALeKk00hqlSnxUD2JSLcxQ2LLqm7aI9ABA%3A1626027161158&ei=mTTrYJyaCeOTwbkPqceWsAw&oq=stored+procedure+asp.net+mvc&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEMsBMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgcIIxCwAxAnOgcIABBHELADOgQIIxAnOgQIABBDOgIIADoICAAQFhAKEB5KBAhBGABQ8R9YkDtgkj5oAXACeAGAAd0NiAGmHJIBDzAuNi4xLjEuMC4xLjgtMZgBAKABAaoBB2d3cy13aXrIAQrAAQE&sclient=gws-wiz&ved=0ahUKEwjcyteaz9vxAhXjSTABHamjBcYQ4dUDCA4&uact=5
+
+https://www.sqlshack.com/sql-server-stored-procedures-for-beginners/
+
+https://www.google.com/search?q=stored+procedure+example&sxsrf=ALeKk02Vg7zygVfA0Z3EKdUAjkYWLsrmrw%3A1626027185258&ei=sTTrYKOjD7mKwbkP9Mu0qAw&oq=stored+procedure+example&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBOgcIABBHELADOgYIIxAnEBM6AggAOgQIIxAnSgQIQRgAUO-FAVj6kgFg_5wBaAFwAngAgAGQAYgBtAqSAQQwLjExmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=gws-wiz&ved=0ahUKEwjjv5amz9vxAhU5RTABHfQlDcUQ4dUDCA4&uact=5
+
+ver notas de typescript
+
+CSS repaso
+https://www.w3schools.com/css/
+
+ver notas de asp.net
+
+Vídeos > Postman 	+++
+Creando test 
+
+?s entrevista de trabajo > Angular	+++
+
+Libro C# 	 
+pag
+37 
+la biblia de c#
+
+ver notas de angular	
+
+Angular > not working		
+https://www.google.com/search?q=angular+%22not+working%22&sxsrf=ALeKk00AeKMCXzYzFE7xQUVGrBSug1UV4g%3A1626150901166&source=lnt&tbs=cdr%3A1%2Ccd_min%3A6%2F30%2F2019%2Ccd_max%3A&tbm=
+
+css > footer
+https://www.youtube.com/watch?v=-8WFVqadxgM&ab_channel=CodingLab
+
+Javascript end
+capturas codingame
+
+asp.net > Produces
+
+Exposure of protected members
+https://www.typescriptlang.org/docs/handbook/2/classes.html
+
+asp.net > Route
+
+css > modificar
+darkcode.info/2017/09/make-awesome-pricing-tables-with-only.html
+
+Angular > dependencies 		
+DevDependencies
+https://angular.io/guide/npm-packages
+https://www.google.com/search?q=angular+dependencies&oq=angular+depende&aqs=chrome.2.0i512j69i57j0i512l4j0i22i30j69i65.3878j0j4&sourceid=chrome&ie=UTF-8
+
+asp.net > Controller
+
+css > Dark code
+http://www.cubicfactory.com/jseditor/welcome/93228/edit
+https://www.youtube.com/c/DarkCodeOnline/videos
+
+asp.net > DbContext
+
+asp.net > ModelBuilder.Entity ->.HasKey
+
+Carpeta Angular proyectos 1	
+
+asp.net > OnModelCreating
+
+Angular exercises 
+https://github.com/search?q=angular+exercises
+https://www.google.com/search?q=angular+exercices&oq=angular+exerci&aqs=chrome.2.0j69i57j0i22i30l8.4997j0j7&sourceid=chrome&ie=UTF-8
+
+asp.net > Generics type 
+
+bootstrap > crear un formulario desde cero
+
+asp.net > IEnumerable
+
+asp.net > Ok
+
+asp.net > NotFound
+
+asp.net > CreatedAtRouteResult
+
+css > tratar de duplicar una pag web
+
+asp.net > BadRequest
+
+asp.net > StringLength
+
+asp.net > List
+
+asp.net > ForeignKey
+
+asp.net > JsonIgnore
+
+asp.net > ModelBuilder
+
+asp.net > GlobalFilterCollection
+
+asp.net > RouteCollection.IgnoreRoute .MapRoute
+
+asp.net > Path.Combine
+
+asp.net > Server.MapPath
+
+Angular > Form		
+https://stackoverflow.com/search?q=angular+10+form
+
+asp.net > IServiceCollection.AddContext .AddMvc ->.AddJsonOptions ->.AddCors .AddTransient
+
+asp.net > MvcJsonOptions.SerializerSettings.ReferenceLoopHandling
+
+Newtonsoft
+
+asp.net > DataType.Text
+
+asp.net > Range
+
+heap stack
+https://www.google.com/search?q=heap+vs+stack&sxsrf=ALeKk00KIZhTPosjjHn6u8SJ9T0395FfTw%3A1626452886976&ei=lrPxYP-HO6eGwbkP4rSCsAU&oq=heap+&gs_lcp=Cgdnd3Mtd2l6EAMYADIECAAQQzIECAAQQzICCAAyBAgAEEMyAggAMgQIABBDMgQIABBDMgIIADICCAAyAggAOgcIABBHELADOggIABCxAxCDAToLCC4QsQMQxwEQowI6BQgAELEDOggILhCxAxCDAToFCC4QsQM6BwguELEDEEM6BQgAEMsBSgQIQRgAUOqDzQRYnJTNBGDRnM0EaAJwAngAgAGxAYgB2wiSAQMxLjaYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=gws-wiz
+
+asp.net > Required
+
+asp.net > AddPolicy 
+
+asp.net > AllowAnyOrigin
+
+.net core > PipeLine
+https://www.youtube.com/watch?v=yOgreCMzaUA&ab_channel=HassanHabib
+
+asp.net > AllowMethod
+
+asp.net > AllowHeader
+
+La plantilla comprada
+
+asp.net > AllowCredentials
+
+asp.net > MapControllers
+
+Automapper
+
+typescript > matriz	
+https://stackoverflow.com/search?q=typescript+matrix
+
+Postman		
+0
+https://www.youtube.com/results?search_query=postman+tutorial
+
+asp.net > .AsNoTracking
+
+asp.net > .OrderBy(aaa).Select
+
+Entity Framework
+
+asp.net > Where(aa).SingleOrDefault
+
+asp.net > @model
+
+asp.net > @Html.ValidationSummary .HiddenFor .DropDownListFor .ValidationMessageFor .LabelFor
+
+asp.net > SelectList 
+
+Codility > C#		
+https://github.com/tpeczek/Codility
+
+Angular > map
+
+typescript > switchMap
+
+Angular > Input
+
+Angular > Output
+  
+css > menú
+
+Tricky questions Javascript	
+https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/
+https://www.google.com/search?q=javascripimport { AppRoutingModule } from './app-routing.module'; // CLI imports t+Tricky+questions&oq=javascript+Tricky+questions&aqs=chrome..69i57j0i19j0i19i22i30l6.5662j0j4&sourceid=chrome&ie=UTF-8
+
+npm
+
+Github > prueba empresa angular  1
+https://github.com/search?l=TypeScript&q=prueba+empresa+angular&type=Repositories
+https://github.com/search?l=TypeScript&q=prueba+empresa&type=Repositories
+
+Typescript > any    	
+https://stackoverflow.com/search?q=angular+any
+
+inglés > audio usando el trad de google		
+
+Newtonsoft	
+i
+https://www.newtonsoft.com/json/help/html/SerializationGuide.htm
+https://www.newtonsoft.com/json/help/html/Introduction.htm
+
+typescript > map	
+https://www.google.com/search?q=typescript+%22.map%22+forum&oq=typescript+%22.map%22+forum&aqs=chrome..69i57.9191j0j4&sourceid=chrome&ie=UTF-8
+
+asp.net > Hash
+
+Preguntas entrevista de trabajo > node js
+
+Bootstrap > tratar de duplicar una pag web
+
+Frances > A1
+
+leer notas de .net core
+
+Preguntas entrevista de trabajo > Testing	
+https://www.google.com/search?q=testing+interview+questions+and+answers&sxsrf=ALeKk00AqC61ioQA40jDZQuNvHhfJ1w86w%3A1627255294865&ei=_vH9YOW1NNeMwbkP1pSQwAE&oq=testing+interview&gs_lcp=Cgdnd3Mtd2l6EAMYATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywE6BwgAELEDEEM6AggAOgsILhCxAxDHARCjAjoICAAQsQMQgwE6BQgAELEDOgcILhBDEJMCOgQILhBDOgQIABBDOgoILhCxAxCDARBDOgYIIxAnEBM6BAgjECc6DQguELEDEMcBEKMCEEM6BAgAEA06BggAEA0QHjoICAAQDRAKEB5KBAhBGABQn6D-A1j_1v4DYIbk_gNoBHACeACAAaECiAHoGpIBBjAuMTkuM5gBAKABAaoBB2d3cy13aXrAAQE&sclient=gws-wiz
+
+C# > virtual
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/virtual
+https://www.google.com/search?q=c%23+virtual&oq=c%23+virtual&aqs=chrome..69i57j0l5j69i58j69i65.3222j0j4&sourceid=chrome&ie=UTF-8
+
+C# >  abstract
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/abstract
+https://www.google.com/search?q=c%23+abstract&sxsrf=ALeKk02AgT1m_0bEVxS1u73eBZZMwl-T1Q%3A1627353296429&ei=0HD_YNreGc-GwbkPoLOxyAU&oq=c%23+abstract&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEMyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywE6BwgAEEcQsAM6BwgAELADEEM6AggASgQIQRgAUKywlwFYnbuXAWCtv5cBaAJwAngAgAGRAYgBsAmSAQMwLjmYAQCgAQGqAQdnd3Mtd2l6yAEKwAEB&sclient=gws-wiz&ved=0ahUKEwjahqG5m4LyAhVPQzABHaBZDFkQ4dUDCA8&uact=5
+
+Js > libro
+https://learning.oreilly.com/library/view/javascript-the-good/9780596517748/ch01.html
+
+javascript > closure	
+Ámbito léxico
+https://www.google.com/search?q=javascript+closure&sxsrf=ALeKk00PEkcgm03-hTwZtHX-o6sYmmyG0w%3A1626553166130&ei=TjvzYP2rB_Dk5NoPlcqgyA8&oq=javascript+closure&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAEIcCEBQyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywE6BwgAEEcQsAM6BAgAEEM6AggASgQIQRgAULOCBFi2igRgvY0EaAJwAngAgAGiAYgB0QiSAQMwLjiYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=gws-wiz&ved=0ahUKEwj9irPd9urxAhVwMlkFHRUlCPkQ4dUDCA4&uact=5
+
+inglés > hablar fluido		
+
+Preguntas entrevista de trabajo > Angular 	
+
+Bootstrap > menu	
+Archivo bootstrap > Responsive Side bar menu
+https://www.youtube.com/watch?v=L0uNai3XyKQ&t=154s&ab_channel=CleverTechie
+https://www.youtube.com/results?search_query=bootstrap+4+menu+bar+responsive+
+
+Vídeos > Javascript	
+Js behavioral
+
+Angular > carpeta codigo de ejemplo  > 1->   
+
+preguntas entrevista de trabajo > testing	
+
+C# > ToList	
+https://stackoverflow.com/search?q=c%23+ToList
+
+typescript > promise		
+https://stackoverflow.com/search?q=typescript+promise
+
+Js > guardar datos en el navegador	
+min 10 - 20
+https://www.youtube.com/watch?v=viQVehEx7Js&ab_channel=CodeToDo
+
+C# > Value types
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types
+
+Vídeos > Selenium 	
+0 - 10
+vídeo 4
+
+PluralSight > grabar más vídeos
+
+angular io > Service workers 	
+Prerequisites
+https://angular.io/guide/service-worker-intro
+
+Programa automatizador de css
+
+css > aprender de memoria	
+https://www.w3schools.com/css/css_inline-block.asp
+
+C# > Reference types		
+The string type
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types
+
+stackoverflow > css	
+https://stackoverflow.com/questions/tagged/css?tab=Votes
+
+.net core > HttpGet	
+https://stackoverflow.com/search?q=.net+core+HttpGet
+
+Angular > select 	
+https://stackoverflow.com/search?q=angular+select
+
+Cuaderno > notas de React
+
+PluralSight > React	++
+CR 5
+
+react > Carpeta React
+
+Vídeos > React y core
+1
+
+PluralSight > React > Implementing forms
+https://app.pluralsight.com/library/courses/react-implementing-forms/table-of-contents
+
+React libro > Cookbook
+https://learning.oreilly.com/library/view/react-cookbook/9781492085836/preface01.html
+
+Vídeos > React > CR 1
+
+PluralSight > React > Calling apis
+https://app.pluralsight.com/library/courses/react-calling-apis/table-of-contents
+
+Vídeos > React > CR 2
+
+Jsx >>
+
+asp.net > codigo de ejemplo
+
+stackoverflow > Angular		
+https://stackoverflow.com/questions/tagged/angular?tab=Votes
+
+React > Carpeta código de ejemplo
+
+typescript > Types
+Type Aliases
+https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types
+
+stackoverflow > typescript
+
+Moq		++
+Demo - let's test it
+https://softchris.github.io/pages/dotnet-moq.html#what-to-test
+https://www.google.com/search?q=moq+tutorial+c%23&oq=moq+tuto&aqs=chrome.2.0i512j69i57j0i22i30l8.4375j0j7&sourceid=chrome&ie=UTF-8
+
+PluralSight > Moq y XUnit
+https://app.pluralsight.com/library/courses/mocking-moq-xunit/table-of-contents
+
+React/JSX > function
+
+sql > practicar
+
+Js > destructuring
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+
+typescript > union types	
+https://stackoverflow.com/search?q=typescript+union+types
+
+Vídeos > React > CR 3
+
+typescript > The unknown Type		
+The unknown Type in Union Types
+https://mariusschulz.com/blog/the-unknown-type-in-typescript
+
+IIS		
+How to Set Up an IIS Server
+https://www.dnsstuff.com/windows-iis-server-tools
+https://www.google.com/search?q=iis+tutorial&oq=iis+tutorial&aqs=chrome..69i57j0i22i30l4j69i65l3.4864j0j4&sourceid=chrome&ie=UTF-8
+
+Jasmine > expect	
+https://stackoverflow.com/search?q=jasmine+expect
+
+Angular > Grabar datos en el navegador		
+https://itelisoft.com/como-utilizar-el-localstorage-en-angula/
+https://www.google.com/search?sxsrf=ALeKk038RKU3PGb_qW_gFfWxcmOA9GZ7pw:1628737024018&q=angular+guardar+datos+en+el+navegador&spell=1&sa=X&ved=2ahUKEwj4wP6dvqryAhXpQTABHQfuCKUQBSgAegQIARA1&biw=1920&bih=937
+
+Jasmine > toBeTruthy		
+https://stackoverflow.com/search?q=jasmine+toBeTruthy
+
+Angular > Carpeta codigo de ejemplo > 2		
+
+Jasmine > beforeEach		
+https://stackoverflow.com/search?q=jasmine+beforeEach
+
+Angular > json		
+https://stackoverflow.com/questions/tagged/angular+json
+
+typescript > push 	
+https://stackoverflow.com/search?q=typescript+push
+
+PluralSight > IIS	++
+https://app.pluralsight.com/course-player?clipId=a69c1923-8fec-4dc1-908a-6e256cdd0924
+
+Sql
+
+Programa automatizador de .net core
+
+Jasmine > inject	
+https://stackoverflow.com/search?q=jasmine+inject
+
+typescript > promise 	
+https://stackoverflow.com/search?tab=relevance&q=typescript%20promise
+
+Jasmine > expect	
+https://stackoverflow.com/search?q=jasmine+expect
+
+jasmine > fixture	
+https://stackoverflow.com/search?q=jasmine+fixture
+
+The art of software testing	
+16
+https://fktpm.ru/file/114-the-art-of-software-testing-3-edition.pdf
+
