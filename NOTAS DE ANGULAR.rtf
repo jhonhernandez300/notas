@@ -35,6 +35,7 @@ A\'f1adir appsettings.json al git ignore para q as\'ed se puedan poner ah\'ed co
 //////////////////////////////////////////\par
 \par
 \par
+<<<<<<< HEAD
 /////////////////////////////\par
 \par
 \par
@@ -125,7 +126,29 @@ ToastrModule.forRoot([\par
 ])\par
 import \{ToastrModule\} from 'ngx-toastr';\par
 \par
+=======
 \par
+//////////////////////////////////////////\par
+\par
+dataSource.getProducts().subscribe(data => \{\par
+            this.products = data;\par
+            this.categories = data.map(p => p.category)\par
+                .filter((c, index, array) => array.indexOf(c) == index).sort();\par
+\});\par
+\par
+getProducts(category: string = null): Product[] \{\par
+        return this.products\par
+            .filter(p => category == null || category == p.category);\par
+\}\par
+\par
+getProduct(id: number): Product \{\par
+        return this.products.find(p => p.id == id);\par
+\}\par
+>>>>>>> a3277e7edff9350ab4d9091c2e4f1ee765592c4d
+\par
+getCategories(): string[] \{\par
+         return this.categories;\par
+\}     \par
 \par
 //////////////////////////////////////////\par
 \par
