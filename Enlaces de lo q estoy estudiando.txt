@@ -1,3 +1,8 @@
+Testing angular libro	->
+%80	
+Testing for failures with asynchronous services
+https://learning.oreilly.com/library/view/testing-angular-applications/9781617293641/c06.xhtml#h1-293641c06-0002
+
 Remington	1+++  2+++  3++
 https://www.youtube.com/watch?v=j0DyqvgE1J8&list=PL9SnRnlzoyX32lX7zNawatnGQP7IPLIi5&index=3&ab_channel=MateFacil
 https://www.youtube.com/results?search_query=algebra+lineal&sp=EgIQAw%253D%253D
@@ -16,14 +21,18 @@ Vídeos > Angular (Testing)	1  2  3
 min 20 ->N
 video 6 2
 
+inglés > practicar conversación
+
 NUnit 
 
-Eres hermosa...cuál es tu whats up? el mío es (+57) 3192161840 me gustaría conocerte
+inglés > simular entrevista técnica
 
 Aplicación empresa > backend
 
 css libro	+
 https://learning.oreilly.com/videos/css-bootcamp-master/9781800202801/9781800202801-video2_13/
+
+Preguntas entrevista de trabajo > Angular 	
 
 inglés > B1
 https://www.google.com/search?q=ingl%C3%A9s+b1+solutions+pdf&sxsrf=ALeKk00p2Y-PmwOVBT1v5qcVvaBN6b3sgA%3A1629349701421&ei=RecdYfSXGbCKwbkPy8Gp4AQ&oq=ingl%C3%A9s+b1+solutions+pdf&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABQs8ECWOnNAmCe0QJoAXACeACAAY0BiAGOBJIBAzAuNJgBAKABAcgBCMABAQ&sclient=gws-wiz&ved=0ahUKEwi0zqvRqLzyAhUwRTABHctgCkwQ4dUDCA4&uact=5
@@ -35,10 +44,14 @@ createComponent()
 https://angular.io/guide/testing-components-basics
 https://www.google.com/search?q=jasmine+configureTestingModule&oq=jasmine+configureTestingModule&aqs=chrome..69i57j0i19i22i30.2294j0j4&sourceid=chrome&ie=UTF-8
 
+Preguntas entrevista de trabajo > C# 	
+
 Jasmine github 
 %10
 Matchers
 https://jasmine.github.io/tutorials/your_first_suite#section-Spies
+
+Preguntas entrevista de trabajo > .net core 
 
 less libro2	
 %0
@@ -69,11 +82,6 @@ https://codepen.io/abdullahturel/pen/ypYmQj
 
 PluralSight > Practical
 https://app.pluralsight.com/course-player?clipId=9a0b8536-fbee-4334-befe-4a069b8dfc52
-
-Testing angular libro	
-%80	
-Testing for failures with asynchronous services
-https://learning.oreilly.com/library/view/testing-angular-applications/9781617293641/c06.xhtml#h1-293641c06-0002
 
 Angular io > Developer Guides > Testing		
 Component DOM testing
@@ -136,7 +144,6 @@ min
 
 Jasmin > Testear un formulario
 
-Preguntas entrevista de trabajo > .net core 	
 
 Stackoverflow > Angular > does not exist
 
@@ -159,7 +166,6 @@ https://angular.io/tutorial/toh-pt5
 
 Jasmin > Testear un servicio
 
-Preguntas entrevista de trabajo > C# 	
 
 ************************************************************************
 typescript > Enums
@@ -766,7 +772,6 @@ https://www.google.com/search?q=javascript+closure&sxsrf=ALeKk00PEkcgm03-hTwZtHX
 
 inglés > hablar fluido		
 
-Preguntas entrevista de trabajo > Angular 	
 
 Bootstrap > menu	
 Archivo bootstrap > Responsive Side bar menu
